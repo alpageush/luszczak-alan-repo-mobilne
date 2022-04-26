@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="type_class">Wpisz klasę</string>
+    <string name="type_year">Wpisz rok</string>
+    <string name="type_surname">Wpisz nazwisko</string>
+    <string name="type_name">Wpisz imię</string>
+    <string name="save">Zapisz</string>
+    <string name="read">Wczytaj</string>
+</resources>

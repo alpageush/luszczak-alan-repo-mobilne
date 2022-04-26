@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Sprawdzian</string>
+    <string name="type_class">Type class</string>
+    <string name="type_year">Type year</string>
+    <string name="type_surname">Type surname</string>
+    <string name="type_name">Type name</string>
+    <string name="save">Save</string>
+    <string name="read">Read</string>
+</resources>
